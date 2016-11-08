@@ -6,7 +6,7 @@ var ExtractTextPlugin = require("extract-text-webpack-plugin");
 var OptimizeJsPlugin = require("optimize-js-plugin");
 
 var srcDir = 'public_src';
-var outputDir = 'public';
+var outputDir = 'dist';
 
 module.exports = {
     devtool: "source-map",
