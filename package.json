@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/haoliangyu/angular2-mapboxgl-starter#readme",
   "scripts": {
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "build": "webpack"
   },
   "dependencies": {
     "@angular/common": "2.1.2",
